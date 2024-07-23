@@ -52,9 +52,7 @@ This project is my first attempt at creating a basic calculator using HTML, CSS,
 
 ## Vercel Deployment Details
 
-- **Status:** Ready
 - **Environment:** Production
-- **Duration:** 6s (4h ago)
 - **Domains:**
   - [calculator-ten-beta-10.vercel.app](https://calculator-ten-beta-10.vercel.app)
   - [calculator-git-main-titli-naths-projects.vercel.app](https://calculator-git-main-titli-naths-projects.vercel.app)
